@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscreteMathPack2", "DiscreteMathPack2\DiscreteMathPack2.csproj", "{08912988-1D47-4880-BDA7-5D3AE8F13DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08912988-1D47-4880-BDA7-5D3AE8F13DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08912988-1D47-4880-BDA7-5D3AE8F13DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08912988-1D47-4880-BDA7-5D3AE8F13DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08912988-1D47-4880-BDA7-5D3AE8F13DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A255DF1-2757-4F89-A6EB-D1BD702C34A7}
+	EndGlobalSection
+EndGlobal
